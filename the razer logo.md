@@ -1,3 +1,3 @@
-# my page 2
+[my link](index.md)
 
 ![razer logo](pop.png)
